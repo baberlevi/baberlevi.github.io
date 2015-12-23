@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: The Ideanator
+email: baberlevi@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I am too lazy to maintain topic specific blogs, so this blog
+  will be about whatever random thing I currently find interesting
+  and will be tagged and searchable  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://baberlevi.github.io" # the base hostname & protocol for your site
+twitter_username: baberlevi
+github_username:  baberlevi
+
+# Build settings
+markdown: kramdown
